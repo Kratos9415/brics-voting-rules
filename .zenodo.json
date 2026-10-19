@@ -1,0 +1,9 @@
+{
+  "title": "Replication code and data for \"Weight Is Not Power: Designing Voting Rules for an Expanded BRICS\"",
+  "upload_type": "software",
+  "version": "1.1",
+  "creators": [
+    { "name": "Maniyar, Dhruv", "affiliation": "Independent researcher" }
+  ],
+  "description": "Python script and data that reproduce every table, figure and robustness check in the paper. Data: World Bank World Development Indicators, accessed 15 October 2026. Version 1.1 adds Shapley–Shubik constraint tests, constraint-floor sensitivity, vote-compression exponents, the double-majority threshold family, the majority-of-members comparison and the comparison with consensus."
+}
